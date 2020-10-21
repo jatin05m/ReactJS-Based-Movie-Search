@@ -1,7 +1,7 @@
 {
   "name": "movie-search-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/jatin05m/ReactJS-Based-Movie-Search.git",
+  "homepage": "http://jatin05m.github.io/ReactJS-Based-Movie-Search",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
