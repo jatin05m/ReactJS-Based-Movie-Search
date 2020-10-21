@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jatin05m/ReactJS-Based-Movie-Search.git/static/css/main.27be7390.chunk.css",
+    "main.js": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/main.2ee32342.chunk.js",
+    "main.js.map": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/main.2ee32342.chunk.js.map",
+    "runtime-main.js": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/runtime-main.d39968f6.js",
+    "runtime-main.js.map": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/runtime-main.d39968f6.js.map",
+    "static/js/2.64aa3eb9.chunk.js": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/2.64aa3eb9.chunk.js",
+    "static/js/2.64aa3eb9.chunk.js.map": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/2.64aa3eb9.chunk.js.map",
+    "index.html": "/jatin05m/ReactJS-Based-Movie-Search.git/index.html",
+    "precache-manifest.10cfc3f74f219add55475a17332052df.js": "/jatin05m/ReactJS-Based-Movie-Search.git/precache-manifest.10cfc3f74f219add55475a17332052df.js",
+    "service-worker.js": "/jatin05m/ReactJS-Based-Movie-Search.git/service-worker.js",
+    "static/css/main.27be7390.chunk.css.map": "/jatin05m/ReactJS-Based-Movie-Search.git/static/css/main.27be7390.chunk.css.map",
+    "static/js/2.64aa3eb9.chunk.js.LICENSE.txt": "/jatin05m/ReactJS-Based-Movie-Search.git/static/js/2.64aa3eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d39968f6.js",
+    "static/js/2.64aa3eb9.chunk.js",
+    "static/css/main.27be7390.chunk.css",
+    "static/js/main.2ee32342.chunk.js"
+  ]
+}
